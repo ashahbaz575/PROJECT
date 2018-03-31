@@ -1,0 +1,7 @@
+--connect
+jdbc:mysql://localhost/sqoopexp
+--username 
+root
+--password
+root
+
